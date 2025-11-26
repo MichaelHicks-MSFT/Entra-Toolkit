@@ -8,7 +8,7 @@ This toolkit provides administrators with practical PowerShell scripts to:
 ## What's Included
 
 ### App Management Scripts
-- **[Get-AppManagementPolicyExemptions](./Scripts/Get-AppManagementPolicyExemptions.ps1)** - Audit all exemptions from app management policies including both applications and caller exemptions (users/service principals)
+- **[Get-AppManagementPolicyExemptions](./Scripts/AppManagement/Get-AppManagementPolicyExemptions.ps1)** - Audit all exemptions from app management policies including both applications and caller exemptions (users/service principals)
 
 ### Coming Soon
 - TBD
